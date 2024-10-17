@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "173559398608",
+    "project_id": "dismoveis",
+    "storage_bucket": "dismoveis.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173559398608:android:a883f9ee827d61fbb7ded5",
+        "android_client_info": {
+          "package_name": "com.company.DisMoveis"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxv1gRp75RRuIiKIK-QFuiodJDqt1BD20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173559398608:android:40268ebd0c054e64b7ded5",
+        "android_client_info": {
+          "package_name": "com.example.aulaprojeto1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxv1gRp75RRuIiKIK-QFuiodJDqt1BD20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173559398608:android:9186880d103b6814b7ded5",
+        "android_client_info": {
+          "package_name": "com.example.dismoveis"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxv1gRp75RRuIiKIK-QFuiodJDqt1BD20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
